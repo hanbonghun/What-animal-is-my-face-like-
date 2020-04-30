@@ -2,6 +2,12 @@
 https://edu.goorm.io/learn/lecture/20213/5%EC%9D%BC-%EB%A7%8C%EC%97%90-200%EB%A7%8C%EC%9B%90-%EB%B2%84%EB%8A%94-%EC%9B%B9%EA%B3%BC-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0
 강의를 보면서 동물상 테스트 웹페이지를 똑같이 만들어 보았다. 완전히 같게 만들지는 못했다.
 
+# 실행
+![df](https://user-images.githubusercontent.com/33712528/80727375-9ad46500-8b40-11ea-914c-b53608c05a92.PNG)
+
+![dfdfdf](https://user-images.githubusercontent.com/33712528/80727379-9b6cfb80-8b40-11ea-8ef3-f0f086767fa6.PNG)
+
+
 # 배운 점
 1.특정 기능을 구현할 수 있는 능력이 있는 것도 좋지만 그보다 중요한 건 오픈소스로 공유되어있는 여러 기능들을 내게 맞게 적용하는 능력이라는 생각   이 들었다. 강의에서 사용한 여러 언어들이나 기능에 대한 이해가 부족했지만, 관련 기능을 검색하고 그대로 붙여놓은 다음 조금씩 수정하니까 원하는   방향으로 완성해나갈 수 있었다. 
 
