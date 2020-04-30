@@ -14,6 +14,5 @@ https://edu.goorm.io/learn/lecture/20213/5%EC%9D%BC-%EB%A7%8C%EC%97%90-200%EB%A7
 5.파이썬을 이용한 웹크롤링이 흥미로웠다. 어렵지 않게 내가 원하는 정보만 골라서 수집할 수 있다는 점이 신기했다. 
 
 6.tools
-  zeplin 디자인->코드 디자이너와 개발자 협업 
-  bootstrap 반응형 웹
-  Teachable Machine	
+  zeplin 디자인->코드 디자이너와 개발자 협업   bootstrap 반응형 웹   Teachable Machine	   
+ 
